@@ -92,22 +92,7 @@ nodejs + npm  # Only if using --spa mode (for Playwright)
 [+] 🔍 Found 7 potential findings (creds/versions)
 ```
 
----
 
-## ⚠️ The "Please Don't Get Me Sued" Section
-
-> 🛑 **LEGAL DISCLAIMER**: This tool is for **authorized security testing only**.  
-> 
-> - ✅ Use it on systems you own
-> - ✅ Use it with explicit written permission
-> - ❌ Don't use it on your ex's website "just to see"
-> - ❌ Don't use it on random sites because "curiosity"
-> 
-> Unauthorized scanning violates laws like the CFAA (US), Computer Misuse Act (UK), GDPR (EU), and probably your local "don't be a jerk" statute.  
-> 
-> *You are responsible for your actions. We are not your lawyer. This README is not legal advice. Stay ethical, stay safe.* 🤝
-
----
 
 ## 🐛 Troubleshooting (Because Tech)
 

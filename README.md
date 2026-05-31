@@ -141,5 +141,5 @@ nodejs + npm  # Only if using --spa mode (for Playwright)
 
 ## 🎪 Final Words
 
-> *"Security isn't about having the shiniest tools. It's about asking the right questions, staying curious, and never stopping the hunt. Also, always get permission first."*  
+> *"Security isn't about having the shiniest tools. It's about asking the right questions, staying curious, and never stopping the hunt."*  
 > — Your Friendly Neighborhood p4rham the newkid

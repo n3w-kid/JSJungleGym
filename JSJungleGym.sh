@@ -31,7 +31,8 @@ TIMEOUT_SEC=15
 SPA_MODE=false
 
 # Docker images used (tracked for cleanup)
-TRIVY_IMAGE="aquasecurity/trivy:latest"
+# Using ArvanCloud mirror: docker.arvancloud.ir/aquasec/trivy
+TRIVY_IMAGE="docker.arvancloud.ir/aquasec/trivy:latest"
 
 # ---------------------------- HELP & USAGE ------------------------------------
 show_help() {
